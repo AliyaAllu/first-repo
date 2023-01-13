@@ -1,1 +1,1 @@
-This is mu first project.
+This is my first project.
